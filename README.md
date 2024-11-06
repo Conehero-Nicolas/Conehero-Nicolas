@@ -8,24 +8,26 @@
 
 ## 🚀 Linguagens e Tecnologias
 
-<div style="display: flex; flex-wrap: wrap;">
-  <!-- Exemplo de um "card" para cada tecnologia -->
-  <div style="background-color: #00599C; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
-    <p>C++</p>
-  </div>
-  <div style="background-color: #00ADD8; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="GoLang">
-    <p>Go</p>
-  </div>
-  <div style="background-color: #3572A5; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python">
-    <p>Python</p>
-  </div>
-  <div style="background-color: #A8B9CC; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C">
-    <p>C</p>
-</div>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
+      <br>C++
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="GoLang">
+      <br>Go
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C">
+      <br>C
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python">
+      <br>Python
+    </td>
+  </tr>
+</table>
 
 ## 📈 Meus Objetivos
 
