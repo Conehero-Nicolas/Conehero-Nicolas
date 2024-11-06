@@ -10,22 +10,21 @@
 
 <div style="display: flex; flex-wrap: wrap;">
   <!-- Exemplo de um "card" para cada tecnologia -->
-  <div style="background-color: #f7df1e; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript">
+  <div style="background-color: #00599C; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
     <p>C++</p>
   </div>
-  <div style="background-color: #61dafb; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React">
-    <p>GoLang</p>
+  <div style="background-color: #00ADD8; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="GoLang">
+    <p>Go</p>
   </div>
   <div style="background-color: #3572A5; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python">
     <p>Python</p>
   </div>
-  <div style="background-color: #007396; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java">
+  <div style="background-color: #A8B9CC; padding: 10px; margin: 5px; border-radius: 5px; text-align: center; width: 100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C">
     <p>C</p>
-  </div>
 </div>
 
 ## 📈 Meus Objetivos
