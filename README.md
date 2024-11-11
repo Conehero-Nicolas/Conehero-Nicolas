@@ -8,7 +8,7 @@
 
 ## 🚀 Linguagens e Tecnologias
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
@@ -30,10 +30,15 @@
 </table>
 
 ## 📈 Meus Objetivos
-
+<p align="center">
 - Aprofundar meus conhecimentos em desenvolvimento de software.
+</p>
+<p align="center">
 - Contribuir para projetos open-source.
+</p>
+<p align="center">
 - Criar aplicações que resolvam problemas do dia a dia.
+</p>
 
 ---
 
