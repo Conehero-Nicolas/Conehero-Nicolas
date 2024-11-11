@@ -5,8 +5,9 @@
 </p>
 
 ---
-
+<p align="center">
 ## 🚀 Linguagens e Tecnologias
+</p>
 
 <table align="center">
   <tr>
@@ -28,8 +29,9 @@
     </td>
   </tr>
 </table>
-
+<p align="center">
 ## 📈 Meus Objetivos
+</p>
 <p align="center">
 - Aprofundar meus conhecimentos em desenvolvimento de software.
 </p>
@@ -41,8 +43,9 @@
 </p>
 
 ---
-
+<p align="center">
 ## 📫 Contato
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolas-conehero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
