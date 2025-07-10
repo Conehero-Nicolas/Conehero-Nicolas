@@ -21,18 +21,6 @@
     </td>
   </tr>
 </table>
-<p align="center">
-## 📈 Meus Objetivos
-</p>
-<p align="center">
-- Aprofundar meus conhecimentos em desenvolvimento de software.
-</p>
-<p align="center">
-- Contribuir para projetos open-source.
-</p>
-<p align="center">
-- Criar aplicações que resolvam problemas do dia a dia.
-</p>
 
 ---
 <p align="center">
