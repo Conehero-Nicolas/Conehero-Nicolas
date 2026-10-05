@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Nícolas Conehero</h1>
 
 <p align="center">
-  Estudante de <strong>Sistemas de Informação</strong> e estagiário em tecnologia.
+  Estudante de <strong>Sistemas de Informação</strong>.
 </p>
 
 ---
